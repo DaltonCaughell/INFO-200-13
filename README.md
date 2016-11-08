@@ -1,2 +1,2 @@
 # Line That Describs Project
-My favorite candy is
+#Cheesecake is more like a pie than a cake, let's be honest here
